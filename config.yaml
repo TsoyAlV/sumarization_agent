@@ -1,0 +1,4 @@
+GROQ_MODEL: openai/gpt-oss-120b
+OPENROUTER_MODEL: deepseek/deepseek-v4-flash-0731
+TEMPERATURE: 0
+MAX_TOKENS: 5000
